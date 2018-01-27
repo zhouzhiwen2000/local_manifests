@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="sagit"
+           fetch="https://gitee.com"
+           />
+
+  <project path="device/xiaomi/sagit" name="zhouzhiwen2000/android_device_xiaomi_sagit" revision="cm-14.1" remote="sagit"/>
+  <project path="kernel/xiaomi/msm8998" name="zhouzhiwen2000/android_kernel_xiaomi_msm8998" revision="cm-14.1" remote="sagit"/>
+  <project path="vendor/xiaomi/sagit" name="zhouzhiwen2000/android_vendor_xiaomi_sagit" revision="cm-14.1" remote="sagit"/>
+</manifest>
